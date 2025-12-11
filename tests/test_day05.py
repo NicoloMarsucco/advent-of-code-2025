@@ -2,7 +2,7 @@ import unittest
 from solutions.utils import load_input
 from solutions.day05 import part1, part2
 
-class TestDay3(unittest.TestCase):
+class TestDay05(unittest.TestCase):
 
     def setUp(self):
         self.data = load_input(5)
